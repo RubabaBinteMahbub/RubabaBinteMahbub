@@ -1,6 +1,6 @@
 # Hi, Buddy!👋 I'm Rubaba.
 # 💫 About Me:
-Currently studying B.Sc. Engg. in CSE in Bangladesh University of Business and Technology.
+Currently studying B.Sc. Engg. in CSE in Bangladesh University of Business and Technology (BUBT).
 
 ![Profile views](https://komarev.com/ghpvc/?username=RubabaBinteMahbub&color=green)
 ## 🌐 Socials:

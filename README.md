@@ -1,4 +1,4 @@
-# Hi, Buddy ! I'm Rubaba. 👋
+# Hi, Buddy!👋 I'm Rubaba.
 # 💫 About Me:
 Currently studying B.Sc. Engg. in CSE in Bangladesh University of Business and Technology.
 

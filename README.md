@@ -1,7 +1,8 @@
 # Hi, Buddy ! I'm Rubaba. 👋
 # 💫 About Me:
 Currently studying B.Sc. Engg. in CSE in Bangladesh University of Business and Technology.
-![Profile views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=green)
+
+![Profile views](https://komarev.com/ghpvc/?username=RubabaBinteMahbub&color=green)
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rubababintemahbub2007@gmail.com) 
 # 📊 GitHub Stats:

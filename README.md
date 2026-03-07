@@ -14,13 +14,13 @@
 
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/RubabaBinteMahbub)
 
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/RubabaBinteMahbub)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/Rubaba_23)
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/RubabaBinteMahbub)
 
 [![VJudge](https://img.shields.io/badge/VJudge-FF6600?style=for-the-badge&logo=code&logoColor=white)](https://vjudge.net/user/Rubaba_23)
 
-<a href="https://www.beecrowd.com.br/judge/en/profile/RubabaBinteMahbub">
+<a href="https://www.beecrowd.com.br/judge/en/profile/1163964">
 <img src="https://img.shields.io/badge/Beecrowd-000000?style=for-the-badge&logo=code&logoColor=white"/>
 </a>
 

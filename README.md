@@ -20,4 +20,4 @@
 
 
 ## 📊 GitHub Stats
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RubabaBinteMahbub&" alt="RubabaBinteMahbub" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RubabaBinteMahbub&theme=radical)](https://git.io/streak-stats)

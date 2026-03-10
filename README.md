@@ -1,8 +1,3 @@
-<!-- HEADER BANNER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Welcome%20To%20My%20GitHub&fontSize=40&fontAlignY=35"/>
-</p>
-
 ## Hi, fellows!👋 I'm Rubaba
 
 ---
@@ -29,9 +24,3 @@
 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RubabaBinteMahbub&layout=compact)
-
-
-<!-- FOOTER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,100:00C9FF&height=120&section=footer"/>
-</p>

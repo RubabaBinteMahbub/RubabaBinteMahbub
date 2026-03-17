@@ -1,9 +1,7 @@
-## Hi, fellows!👋 I'm Rubaba
+## Hi!👋 I'm Rubaba
 
 ---
 
-<b>Here you’ll find my projects and contributions.</b>
- 
 ## Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rubaba-binte-mahbub-80466b376?trk=contact-info)
 
@@ -20,7 +18,7 @@
 
 
 ## 📊 GitHub Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RubabaBinteMahbub)](https://git.io/streak-stats)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RubabaBinteMahbub&theme=tokyonight)](https://git.io/streak-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RubabaBinteMahbub&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RubabaBinteMahbub&layout=compact&theme=tokyonight)

@@ -1,5 +1,5 @@
 ## Hi!👋 I'm Rubaba
-
+CSE Undergrad Student
 ## 🌐 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rubaba-binte-mahbub-80466b376?trk=contact-info)
 

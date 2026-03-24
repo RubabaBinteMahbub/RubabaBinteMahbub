@@ -1,5 +1,11 @@
 ## Hi!👋 I'm Rubaba
 CSE Undergrad Student
+
+✨ Fun Fact - I like keeping my code simple and clean! 🌸
+
+![Profile Views](https://komarev.com/ghpvc/?username=RubabaBinteMahbub&label=Profile%20views&color=0e75b6&style=flat)
+
+
 ## 🌐 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rubaba-binte-mahbub-80466b376?trk=contact-info)
 
@@ -23,3 +29,5 @@ CSE Undergrad Student
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RubabaBinteMahbub&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RubabaBinteMahbub&layout=compact&theme=tokyonight)
+
+<!-- Custom made by me.-->

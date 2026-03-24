@@ -1,5 +1,5 @@
 ## Hi!👋 I'm Rubaba
-CSE Undergrad | Love coding and creativity | Enjoy learning
+CSE undergrad | Love coding and creativity | Enjoy learning
 
 ✨ Fun Fact - I like keeping my code simple and clean! 🌸
 

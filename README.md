@@ -1,7 +1,8 @@
 ## Hi!👋 I'm Rubaba
-CSE undergrad | Love coding and creativity | Enjoy learning
+---
+<h4>CSE undergrad | Love coding and creativity | Enjoy learning!</h4>
 
-✨ Fun Fact - I like keeping my code simple and clean! 🌸
+<h4>✨ Fun Fact - I like keeping my code simple and clean! 🌸</h4>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=RubabaBinteMahbub&label=Profile%20views&color=0e75b6&style=flat)
 

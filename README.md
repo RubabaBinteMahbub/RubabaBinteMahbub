@@ -1,6 +1,6 @@
 ## Hi!👋 I'm Rubaba
 ---
-<h4>CSE Undergrad | Love Coding and Creativity | Enjoy Learning!</h4>
+<h4>CSE Undergrad | Love Coding and Creativity | Enjoy Learning</h4>
 
 <h4>✨ Fun Fact - I like keeping my code simple and clean! 🌸</h4>
 

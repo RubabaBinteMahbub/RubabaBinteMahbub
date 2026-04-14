@@ -27,8 +27,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RubabaBinteMahbub&theme=tokyonight)](https://git.io/streak-stats)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RubabaBinteMahbub&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RubabaBinteMahbub&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RubabaBinteMahbub&layout=compact&theme=tokyonight)
 
 <!--Custom made by RubabaBinteMahbub->

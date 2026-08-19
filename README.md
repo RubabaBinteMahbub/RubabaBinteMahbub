@@ -9,6 +9,7 @@
 
 ## 🌐 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rubaba-binte-mahbub-80466b376?trk=contact-info) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61578791876927)
+[![Discord](https://img.shields.io/badge/Discord-rubaba__mahbub-5865F2?logo=discord&logoColor=white)](https://discord.com/users/rubaba_mahbub)
 
 ## 💻 Languages 
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.cppreference.com/w/c)

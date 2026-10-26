@@ -29,7 +29,7 @@
 
 ## 📊 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RubabaBinteMahbub&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RubabaBinteMahbub&layout=compact&theme=tokyonight&count_private=true)
 
 ## 📊 GitHub Contributions
 
